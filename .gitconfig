@@ -1,0 +1,12 @@
+[user]
+	name = Kirill Suslov
+	email = ikirill2323@gmail.com
+[pull]
+	rebase = true
+[alias]
+	co = checkout
+	br = branch
+	st = status
+	ci = commit
+[pager]
+	branch = false
